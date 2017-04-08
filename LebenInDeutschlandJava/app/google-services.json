@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "21821132131",
+    "firebase_url": "https://lebenindeutschland-2be26.firebaseio.com",
+    "project_id": "lebenindeutschland-2be26",
+    "storage_bucket": "lebenindeutschland-2be26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21821132131:android:47648c839f7dc822",
+        "android_client_info": {
+          "package_name": "com.android.lebenindeutschland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21821132131-1ncd7nv857l2nk135nn21fpp5o5si4md.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.lebenindeutschland",
+            "certificate_hash": "2D7733D5197FF352D455DE581F71838C69609695"
+          }
+        },
+        {
+          "client_id": "21821132131-4a7jlbduec5979s1m7cr894b04rp5gh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCljoeYcFSRLUlsAZAc3lxQtp20XHfN3sA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21821132131-4a7jlbduec5979s1m7cr894b04rp5gh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
