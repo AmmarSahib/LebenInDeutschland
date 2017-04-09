@@ -1,11 +1,9 @@
-### How to create and build the project
+### How to create the project
 
-$ react-native init LebenInDeutchlandProject
+$ create-react-native-app LebenInDeutchlandProject
 
 
-### How to run for android
+### How to build
 
-$ cd LebenInDeutchlandProject/
-
-$ react-native run-android
-
+$ cd LebenInDeutchlandProject
+$ npm start
